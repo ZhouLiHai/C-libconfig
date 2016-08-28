@@ -1,0 +1,110 @@
+libconfig_la-grammar.lo: grammar.c \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/string.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/features.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /Volumes/arm-x/lib/gcc/arm-none-linux-gnueabi/4.4.1/include/stddef.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/xlocale.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/string.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/string2.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/stdlib.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/sys/types.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/types.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/time.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/endian.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/endian.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/sys/select.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/select.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/time.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/alloca.h \
+ libconfig.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/stdio.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/libio.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/_G_config.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/wchar.h \
+ /Volumes/arm-x/lib/gcc/arm-none-linux-gnueabi/4.4.1/include/stdarg.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/stdio_lim.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/sys_errlist.h \
+ /Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/stdio.h \
+ parsectx.h strbuf.h scanctx.h
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/string.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/Volumes/arm-x/lib/gcc/arm-none-linux-gnueabi/4.4.1/include/stddef.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/xlocale.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/string.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/string2.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/stdlib.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/sys/types.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/time.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/endian.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/endian.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/sys/select.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/select.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/time.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/alloca.h:
+
+libconfig.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/stdio.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/libio.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/_G_config.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/wchar.h:
+
+/Volumes/arm-x/lib/gcc/arm-none-linux-gnueabi/4.4.1/include/stdarg.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/stdio_lim.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/sys_errlist.h:
+
+/Volumes/arm-x/arm-none-linux-gnueabi/libc/usr/include/bits/stdio.h:
+
+parsectx.h:
+
+strbuf.h:
+
+scanctx.h:
